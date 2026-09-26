@@ -1,0 +1,11 @@
+# Local test and demo stub data
+.bd-stub-data/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Editor and OS artifacts
+*.swp
+*~
+.DS_Store
