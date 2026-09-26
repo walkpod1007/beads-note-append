@@ -1,5 +1,7 @@
 # beads-note-append
 
+English ｜ [繁體中文](README.zh-TW.md)
+
 **Append to a beads (`bd`) issue's notes without ever overwriting them.**
 One bash file, no third-party dependencies (needs `bd` and a stock `python3` for JSON parsing).
 
